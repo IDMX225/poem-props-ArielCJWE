@@ -4,13 +4,39 @@
 
 body {
   font-family: type.$font;
-  background-color: var.$bg-very-light;
+  background-color: #292017;
   width: min(100% - 2rem, 60ch);
   margin-inline: auto;
   margin-block: 4rem;
+  border-radius: 25px;
 }
 
 h1 {
-  color: var.$primary-color;
+  color: #e0d9cb;
   text-align: center;
+  animation: 
+    var(--animation-scale-down) reverse,
+    var(--animation-fade-out) reverse;
+    animation-timing-function: var(--ease-squish-5);
+    animation-duration: 2.5s;
+}
+
+.Poem{
+  text-align: center;
+  color: #cab694;
+}
+
+footer{
+  text-align: center;
+  color: #e0d9cb;
+}
+img{
+  border-radius: 75px;
+}
+.ImageMoon{
+  animation: 
+    var(--animation-scale-down) reverse,
+    var(--animation-fade-out) reverse;
+    animation-timing-function: var(--ease-squish-5);
+    animation-duration: 2.5s;
 }
