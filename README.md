@@ -29,3 +29,6 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+The amazing author of this poem is [Emily Elizabeth Dickinson](https://www.public-domain-poetry.com/emily-elizabeth-dickinson/moon-13885)
+And as for the image it was created by [Rafay Ansari](https://unsplash.com/photos/a-hand-holding-a-light-in-the-dark-E55iJtoy-zU)
